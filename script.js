@@ -10,15 +10,15 @@ const perguntas = [
         alternativas: [
         {
             texto: "baixo",
-            afirmacao: "possui pouco conhecimento a respeito da literatura brasileira"
+            afirmacao: "possui pouco conhecimento a respeito da literatura brasileira."
         },
         {
             texto: "médio",
-            afirmacao: "possui conhecimento rasoável a respeito da literatura basileira"
+            afirmacao: "possui conhecimento rasoável a respeito da literatura basileira."
         },
         {
             texto: "alto",
-            afirmacao: "possui conheciemnto aprofundado a respeito da literatura brasileira"
+            afirmacao: "possui conheciemnto aprofundado a respeito da literatura brasileira."
         }
     
         ]
@@ -28,19 +28,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "aventuras e elementos folclóricos",
-                afirmacao: "possui personalidade similar a de Monteiro Lobato"
+                afirmacao: "possui personalidade similar a de Monteiro Lobato."
             },
             {
                 texto: "crítica social",
-                afirmacao: "possui personalidade similar a de Machado de Assis"
+                afirmacao: "possui personalidade similar a de Machado de Assis."
             },
             {
                 texto: "psicológico das personagens e retrato o dia a dia comum",
-                afirmacao: "possui personalidade similar a de Clarice Lispector"
+                afirmacao: "possui personalidade similar a de Clarice Lispector."
             },
             {
                 texto: "socidade brasileira e preconceito racial",
-                afirmacao: "possui personalidade similar a de Aluisio Azevedo" 
+                afirmacao: "possui personalidade similar a de Aluisio Azevedo." 
             }
     
         ]
@@ -50,19 +50,19 @@ const perguntas = [
         alternativas: [
             {
                 texto:"simples e didático",
-                afirmacao:"Adoraria a escrita de Monteiro Lobato"
+                afirmacao:"Adoraria a escrita de Monteiro Lobato."
             },
             {
                 texto: "objetivo e irônico",
-                afirmacao: "Adoraria a escrita de Machado de Assis"
+                afirmacao: "Adoraria a escrita de Machado de Assis."
             },
             {
                 texto: "metafórico e sensível",
-                afirmacao: "Adoraria a escrita de Clarice Lispector"
+                afirmacao: "Adoraria a escrita de Clarice Lispector."
             },
             {
                 texto: "grotesco e descritivo",
-                afirmacao: "Adoraria a escrita de Aluisio de Azevedo"
+                afirmacao: "Adoraria a escrita de Aluisio de Azevedo."
             }
 
         ]
@@ -72,19 +72,19 @@ const perguntas = [
         alternativas: [
             {
                 texto:  "pré-modernismo - regionalismo por meio da renovação artística",
-                afirmacao: "Monteiro Lobato de identificaria com você"
+                afirmacao: "Monteiro Lobato de identificaria com você."
             },
             {
                 texto: "romantismo - espontaneidade lírica",
-                afirmacao:"Machado se identificaria com você"  
+                afirmacao:"Machado se identificaria com você."  
             },
             {
                 texto:  "modernismo - estruturas não tradicionais com liberdade formal",
-                afirmacao: "Clarice se identificaria com você"
+                afirmacao: "Clarice se identificaria com você."
             },
             {
                 texto:  "realismo - linguagem objetiva, crítica social e falta de idealizações",
-                afirmacao:"Aluisio de identificaria com você"
+                afirmacao:"Aluisio de identificaria com você."
             }
            
  
